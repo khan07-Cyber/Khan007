@@ -8,5 +8,5 @@ bit = platform.architecture()[0]
  
 if bit == '64bit':
     print('\033[0;97m[•] \033[1;32mCONGRATULATIONS 64BIT SUCCESS')
-    from Project1 import KHAN
+    import KHAN
     
